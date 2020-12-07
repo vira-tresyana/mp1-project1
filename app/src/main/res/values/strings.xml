@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Virashop</string>
+    <string name="profile_mengikuti">Mengikuti</string>
+    <string name="vira_tresyana">Vira Tresyana</string>
+    <string name="profil_postingan">Postingan</string>
+    <string name="_8">8</string>
+    <string name="_2k">2K</string>
+    <string name="_350">350</string>
+    <string name="profil_pengikut">Pengikut</string>
+    <string name="profil_bio_teknik_informatika">Teknik Infoematika</string>
+    <string name="ketapang_kalimantan_barat">Ketapang, kalimantan Barat</string>
+    <string name="ikuti">Ikuti</string>
+    <string name="kirim_pesan">Kirim Pesan</string>
+</resources>
